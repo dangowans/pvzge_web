@@ -1,0 +1,22 @@
+{
+  "name": "PvZ2 Gardendless Online",
+  "short_name": "PvZ2 Gardendless",
+  "description": "Plants vs. Zombies 2: Gardendless Online",
+  "start_url": ".",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#080909",
+  "theme_color": "#080909",
+  "icons": [
+    {
+      "src": "favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
